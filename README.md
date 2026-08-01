@@ -19,10 +19,10 @@ Everything here runs against something I actually use.
 
 - **agent-timer** — agents have no sense of time. This gives them one.
 - **Jessie** — an outbound sales agent on the Claude Agent SDK.
-- A Claude Code OS — 1,500+ hours in — orchestrating my Hermes & OpenClaw fleet.
+- A Claude Code OS — 2,000+ hours in — orchestrating my Hermes & OpenClaw fleet.
 
 ## Elsewhere
 
-[LinkedIn](https://www.linkedin.com/in/gabrielgaravitgarfias) · [marknote.io](https://marknote.io)
+[LinkedIn](https://www.linkedin.com/in/gabrielgaravitgarfias) · [agentcreate.io](https://agentcreate.io) · [marknote.io](https://marknote.io)
 
 <sub>Updated 2026-08-01</sub>
