@@ -24,5 +24,3 @@ Everything here runs against something I actually use.
 ## Elsewhere
 
 [LinkedIn](https://www.linkedin.com/in/gabrielgaravitgarfias) · [agentcreate.io](https://agentcreate.io) · [marknote.io](https://marknote.io)
-
-<sub>Updated 2026-08-01</sub>
