@@ -28,7 +28,7 @@ Everything here runs against something I actually use.
 ## On the bench
 
 - **Agent Charm, off the desk.** Same characters, somewhere you'll always have them.
-- **Switchpoint**: works out which decisions a cheap typed model like Jev can handle and which need a frontier model, checked on held-out data.
+- **Switchpoint**: tests whether a classifier model like Jev can beat a frontier model on your task, and by how much in accuracy and cost, checked on held-out data.
 
 ## Elsewhere
 
