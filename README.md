@@ -15,6 +15,7 @@ Everything here runs against something I actually use.
 |---|---|---|
 | **[Agent Charm](https://github.com/garavitgabriel/agent-charm)** | A pocket ESP32 with a living character on it. Hold to talk to your agent, glance at what's waiting, hold to say yes. | No board? [Run the simulator](https://github.com/garavitgabriel/agent-charm#quickstart-without-hardware-macos) |
 | **[Clawdito](https://github.com/garavitgabriel/clawdito)** | A little desk crab that shows your Claude Code usage. | ESP32-S3 + one Python file |
+| **[Ojo de Gato](https://github.com/garavitgabriel/ojogato)** | A private pet cam from an old Mac. Apple's on-device recognition checks every motion, and your agent tells you how the cats are. | Any Mac with a camera · OpenClaw, Hermes or any MCP agent |
 
 **Plugins & tools**
 
