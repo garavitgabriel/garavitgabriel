@@ -21,6 +21,7 @@ Everything here runs against something I actually use.
 
 | | What it does | Try it |
 |---|---|---|
+| **[Edgy](https://github.com/garavitgabriel/edgy)** | Every edge and corner of your Mac's trackpad, mapped to whatever you want. A small menu-bar app. | Free to build · [edgy.to](https://edgy.to) |
 | **[claude-remote-kit](https://github.com/garavitgabriel/claude-remote-kit)** | Drive Claude Code from your phone, in the same session as your desk. | `/remote-setup` |
 | **[Rappi](https://github.com/garavitgabriel/rappi-plugin-claude-openclaw)** | Order food, groceries, pharmacy in Colombia + Mexico by talking to your agent. | `/plugin marketplace add garavitgabriel/rappi-plugin-claude-openclaw` |
 | **[ESPN Fantasy](https://github.com/garavitgabriel/espn-fantasy-claude-openclaw)** | Run an entire H2H Categories fantasy baseball season as a conversation. 44 tools. | `/plugin marketplace add garavitgabriel/espn-fantasy-claude-openclaw` |
