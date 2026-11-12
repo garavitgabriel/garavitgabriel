@@ -34,4 +34,4 @@ Everything here runs against something I actually use.
 
 ## Elsewhere
 
-[LinkedIn](https://www.linkedin.com/in/gabrielgaravitgarfias) · [zoneread.io](https://zoneread.io) · [agentcreate.io](https://agentcreate.io) · [marknote.io](https://marknote.io)
+[LinkedIn](https://www.linkedin.com/in/gabrielgaravitgarfias) · [zoneread.io](https://zoneread.io) · [agentcreate.io](https://agentcreate.io) · [marknote.io](https://marknote.io) · [edgy.to](https://edgy.to)
